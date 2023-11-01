@@ -1,0 +1,501 @@
+ID,TREATMENT_DATE,RECEIVED_DATE,CLAIMS_TYPE,REVIEW_REASON,AGE,INVOICE_AMOUNT
+3453621322605639524,2017-02-28,2017-03-11,Doctor consultation,issue from previous review,58,182.23
+8128195827310128839,2017-05-11,2017-11-22,Prescription,duplicate payment,62,4133.05
+3450410363219081042,2017-10-10,2017-11-03,Prescription,issue from previous review,66,36.76
+6058888927347395294,2017-12-05,2018-01-06,Prescription,issue from previous review,76,52.72
+3669323013696141909,2017-03-24,2017-04-29,Prescription,issue from previous review,64,119.8
+7308232762935724354,2017-10-10,2017-10-22,Doctor consultation,issue from previous review,73,171.07
+5308037170586125823,2017-05-06,2017-06-02,Prescription,issue from previous review,70,0.0
+3067568320688318393,2017-07-07,2018-05-19,Medical aids,issue from previous review,80,36.7
+3502667915278411289,2017-05-03,2017-05-10,Prescription,issue from previous review,72,24.61
+3380115002947319910,2017-10-28,2018-01-06,Prescription,issue from previous review,66,353.61
+8489142614221385086,2017-02-21,2017-05-19,Doctor consultation,duplicate payment,79,10.72
+3088335561928703088,2017-02-15,2017-04-24,Prescription,duplicate payment,62,28.7
+6171777802163033183,2017-09-06,2017-09-22,Prescription,issue from previous review,64,59.36
+6884731552628908979,2017-12-19,2017-12-27,Medical aids,issue from previous review,82,1590.0
+7190965799896266982,2017-02-21,2017-03-15,Doctor consultation,referral documentation,51,176.37
+5439630810669564327,2017-03-17,2017-05-13,Prescription,referral documentation,81,9.06
+3871286793334793262,2017-05-19,2017-06-07,Prescription,issue from previous review,54,31.11
+7232501607650970217,2017-09-16,2017-09-22,Prescription,issue from previous review,65,51.8
+4225997833306882857,2017-01-06,2017-02-22,Prescription,issue from previous review,69,39.6
+2767599372271601555,2017-12-17,2017-12-27,Prescription,issue from previous review,71,745.63
+8514160333957291849,2017-03-18,2017-11-09,Doctor consultation,issue from previous review,65,722.74
+3089096488548146439,2017-09-21,2017-12-07,Doctor consultation,referral documentation,58,293.18
+8070447947970831321,2017-01-19,2017-02-17,Prescription,issue from previous review,55,203.8
+7914282811324997908,2017-12-17,2017-12-17,Prescription,duplicate payment,68,25.99
+2263116689151603619,2017-02-18,2017-04-06,Prescription,issue from previous review,62,46.62
+9122692370419565011,2017-07-19,2017-09-17,Prescription,referral documentation,68,321.66
+980672088143661982,2017-09-14,2017-09-14,Prescription,referral documentation,74,192.64
+6053511676708130774,2017-09-06,2017-11-09,Prescription,issue from previous review,65,22.85
+433078031512582737,2017-03-31,2017-04-11,Prescription,duplicate payment,70,65.59
+4178986067798432158,2017-03-11,2017-05-13,Prescription,referral documentation,81,19.33
+4121929830480725584,2017-06-09,2018-02-14,Prescription,duplicate payment,87,16.85
+4225313311595128938,2017-11-09,2017-11-11,Prescription,duplicate payment,77,44.8
+7451487394608465275,2017-06-01,2017-11-22,Prescription,duplicate payment,62,2452.65
+786016027804282216,2017-01-28,2017-02-01,Prescription,referral documentation,77,245.55
+8974725618406927776,2017-06-01,2017-06-15,Doctor consultation,issue from previous review,75,244.16
+1850804176419511338,2017-04-25,2017-06-01,Medical aids,issue from previous review,62,183.4
+888719083400025705,2017-09-15,2017-10-04,Prescription,issue from previous review,65,53.6
+2555752440692759077,2017-01-17,2017-01-21,Medical aids,issue from previous review,74,268.65
+4084115698969493313,2017-07-27,2017-10-18,Prescription,referral documentation,77,14.28
+6410366277896980417,2017-11-03,2017-11-03,Prescription,issue from previous review,42,5446.71
+4846609986077359336,2017-05-12,2017-06-24,Doctor consultation,issue from previous review,77,190.39
+1553667716455835764,2017-08-18,2017-08-18,Prescription,referral documentation,67,16.21
+2516303455634847676,2017-11-04,2017-11-11,Prescription,issue from previous review,78,88.1
+5710390518790612833,2017-06-23,2017-07-21,Prescription,duplicate payment,75,13.46
+7015490614048970884,2017-05-06,2018-01-15,Alternative medicine,duplicate payment,59,290.8
+7477932237554034190,2017-01-18,2017-06-07,Prescription,issue from previous review,54,36.04
+1461546654284652019,2017-12-07,2018-01-27,Prescription,issue from previous review,75,6894.09
+8273265896179763343,2017-11-14,2018-01-11,Prescription,referral documentation,73,25.31
+4115938231176743891,2017-07-19,2017-07-19,Prescription,issue from previous review,62,149.23
+35066440277100315,2017-07-12,2017-08-02,Prescription,issue from previous review,83,36.7
+219634503193093295,2017-11-14,2017-12-07,Prescription,duplicate payment,68,51.74
+2541265819274290171,2017-06-02,2017-06-14,Prescription,issue from previous review,75,305.45
+3847902647595755980,2017-07-18,2017-11-11,Prescription,duplicate payment,55,55.88
+1979840357114661808,2017-05-31,2017-07-14,Doctor consultation,issue from previous review,54,146.81
+8572821732588169952,2017-10-18,2017-10-18,Prescription,issue from previous review,51,14.9
+5600654515879922898,2017-03-31,2017-05-03,Medical aids,issue from previous review,73,42.84
+1194654966699835609,2017-06-07,2017-08-19,Doctor consultation,issue from previous review,59,243.85
+7914741700904899741,2017-12-13,2017-12-15,Prescription,issue from previous review,85,182.77
+5380422929187733302,2017-04-01,2017-04-21,Medical aids,issue from previous review,61,30.0
+1017480636296329391,2017-08-16,2018-03-29,Doctor consultation,referral documentation,76,2185.87
+8847143258448157695,2017-03-07,2017-03-07,Prescription,issue from previous review,71,124.27
+6003152469873826059,2017-04-21,2017-05-10,Doctor consultation,duplicate payment,51,168.37
+5173464195820327698,2017-11-15,2018-01-05,Prescription,issue from previous review,63,291.99
+6309890895221774777,2017-10-18,2018-01-11,Prescription,referral documentation,73,172.5
+8920349905117441847,2017-01-17,2017-03-29,Prescription,issue from previous review,66,14.43
+8635928855347926023,2017-05-03,2017-05-10,Prescription,issue from previous review,72,30.19
+3944454078060988607,2017-12-08,2017-12-22,Doctor consultation,issue from previous review,71,263.01
+2033509044147346650,2017-05-30,2017-07-21,Medical aids,issue from previous review,58,37.44
+2289537703996515305,2017-10-14,2017-12-22,Doctor consultation,issue from previous review,71,54.79
+6573495864508152067,2017-03-26,2017-03-31,Prescription,duplicate payment,78,16.36
+4085253371667035760,2017-12-05,2017-12-06,Prescription,issue from previous review,71,13.98
+2301620932165826888,2017-09-29,2017-10-25,Doctor consultation,referral documentation,78,20.11
+3728071959490541264,2017-11-23,2017-12-17, doctor consultation,undisclosed diagnoses,71,361.81
+2386782446051892733,2017-09-05,2017-09-06,Prescription,issue from previous review,68,46.82
+968305765897559861,2017-07-08,2017-07-16,Doctor consultation,referral documentation,56,191.32
+5382779472809747525,2017-08-02,2017-09-17,Prescription,referral documentation,68,814.03
+3360736310874351836,2017-10-10,2017-10-18,Prescription,referral documentation,63,305.45
+7860131723835437575,2017-04-25,2017-05-09,Doctor consultation,issue from previous review,71,155.53
+5540799836460945485,2017-07-07,2017-08-01,Prescription,referral documentation,76,329.24
+8925062793136081304,2017-07-27,2017-10-18,Prescription,referral documentation,77,115.38
+3387758983683776164,2017-12-09,2017-12-09,Prescription,issue from previous review,68,131.53
+4667645701319906513,2017-10-20,2017-11-10,Medical aids,duplicate payment,64,84.0
+6058124841452050670,2017-09-22,2017-09-25,Prescription,issue from previous review,73,24.72
+8906649912369941862,2017-09-29,2017-09-30,Medical aids,issue from previous review,58,980.39
+5235860845858866272,2017-06-03,2017-08-09,Prescription,duplicate payment,67,21.97
+8720497406766684386,2017-03-17,2017-05-13,Prescription,referral documentation,81,42.01
+1356630130874727830,2017-08-25,2018-03-29,Doctor consultation,duplicate payment,76,23.79
+9195217622502876773,2017-02-14,2017-02-16,Prescription,issue from previous review,70,7.87
+4324182182698451246,2017-12-06,2018-01-05,Doctor consultation,duplicate payment,79,219.37
+2839631433338423840,2017-11-30,2018-02-06,Doctor consultation,issue from previous review,80,53.63
+1487954527805916953,2017-08-30,2017-09-07,Medical aids,issue from previous review,80,78.54
+6351967788177624084,2017-07-28,2017-11-03,Doctor consultation,issue from previous review,73,3.15
+2700228930151298541,2017-07-20,2017-07-23,Prescription,referral documentation,55,45.54
+3730657455422946312,2017-04-08,2017-04-08,Prescription,issue from previous review,51,312.01
+3429976350076431100,2017-01-17,2017-01-19,Prescription,issue from previous review,73,114.48
+4638972868925198856,2017-02-23,2017-05-17,Prescription,issue from previous review,76,325.91
+3126424228528284051,2017-12-27,2018-03-15,Prescription,referral documentation,64,9.96
+1062408189562733901,2017-09-16,2017-11-05,Prescription,referral documentation,22,329.38
+1285192776642717649,2017-04-05,2017-06-08,Prescription,duplicate payment,80,109.28
+764902197350210650,2017-07-21,2017-07-26,Prescription,issue from previous review,75,182.24
+7349543344570948824,2017-05-19,2017-05-19,Prescription,issue from previous review,44,24.84
+2371083989742242646,2017-02-17,2017-09-16,Doctor consultation,duplicate payment,69,882.29
+9083395218956446966,2017-02-09,2017-03-03,Doctor consultation,issue from previous review,73,241.35
+6400595667808069908,2017-02-22,2018-01-27,Doctor consultation,referral documentation,62,44.87
+604894870479339575,2017-12-15,2018-02-22,Doctor consultation,issue from previous review,72,206.72
+4913349974235205928,2017-02-17,2017-03-14,Prescription,issue from previous review,65,85.39
+4434407283185550016,2017-10-17,2017-12-19,Prescription,issue from previous review,63,58.79
+2983200902553448548,2017-12-29,2018-02-14,Prescription,issue from previous review,79,33.85
+8714274308579420980,2017-06-13,2017-06-17,Prescription,issue from previous review,78,155.41
+8823216867281692477,2017-01-24,2017-03-01,Doctor consultation,duplicate payment,53,286.39
+1630402266066214704,2017-06-30,2017-09-08,Prescription,referral documentation,63,17.44
+5074360765720862672,2017-03-17,2017-07-06,Prescription,duplicate payment,57,16.66
+7509422496466048090,2017-05-24,2017-07-25,Doctor consultation,referral documentation,56,184.1
+9150433571302975258,2017-01-31,2017-01-31,Prescription,issue from previous review,70,6019.67
+8408224234415368507,2017-04-28,2017-07-19,Prescription,issue from previous review,84,36.39
+3358937182459583894,2017-06-15,2017-06-19,Prescription,issue from previous review,78,19.17
+5702204802210148688,2017-08-22,2018-01-24,Doctor consultation,duplicate payment,192,75.24
+4024643164764704030,2017-11-16,2018-01-06,Doctor consultation,duplicate payment,73,951.54
+6143991408696318373,2017-07-12,2017-08-02,Prescription,issue from previous review,83,30.92
+5643930168834765350,2017-04-04,2017-04-25,Doctor consultation,issue from previous review,59,504.97
+2358106936547748971,2017-07-06,2017-09-02,Doctor consultation,duplicate payment,75,587.45
+8469581636969538063,2017-09-17,2017-10-10,Prescription,issue from previous review,62,872.38
+5374234935157114687,2017-07-27,2017-08-30,Prescription,duplicate payment,66,14.42
+2776609228723216773,2017-09-16,2017-09-22,Prescription,issue from previous review,65,662.68
+468274447170260817,2017-02-21,2017-09-16,Doctor consultation,duplicate payment,69,169.87
+6562550952990501723,2017-06-10,2017-10-25,Prescription,referral documentation,63,15.95
+3561539461351970998,2017-09-05,2017-12-16,Doctor consultation,referral documentation,74,305.68
+6370232369437843201,2017-03-29,2017-06-29,Doctor consultation,issue from previous review,61,167.61
+4402613099398133155,2017-11-29,2017-11-29,Prescription,issue from previous review,74,153.16
+331311504504063842,2017-05-19,2017-07-03,Doctor consultation,issue from previous review,66,318.11
+5215291743478728269,2017-04-26,2017-05-25,Prescription,issue from previous review,72,36.88
+720632817420246612,2017-01-11,2017-04-20,Doctor consultation,issue from previous review,42,203.01
+488652466043142235,2017-09-22,2017-10-10,Prescription,issue from previous review,74,15.87
+7139554382415183219,2017-03-07,2017-03-24,Doctor consultation,duplicate payment,55,328.64
+8464156170347983513,2017-12-16,2017-12-29,Medical aids,issue from previous review,69,51.87
+2123110809027251083,2017-03-02,2017-05-02,Doctor consultation,referral documentation,68,312.52
+3493448993072097401,2017-01-17,2018-01-23,Doctor consultation,duplicate payment,68,322.84
+4152502964190596621,2017-10-17,2017-12-19,Prescription,issue from previous review,63,129.98
+1765268771966029065,2017-09-12,2017-09-14,Prescription,referral documentation,67,54.04
+3722165340055932177,2017-03-03,2017-04-27,Doctor consultation,referral documentation,49,112.24
+478146282830587210,2017-03-15,2017-06-29,Medical aids,issue from previous review,69,856.48
+76262909163161983,2017-03-24,2017-05-13,Prescription,referral documentation,81,25.91
+3942218414897087593,2017-11-08,2017-11-08,Prescription,issue from previous review,51,66.73
+4810252703591907405,2017-12-22,2018-01-13,Prescription,duplicate payment,52,55.72
+620932650767161182,2017-06-09,2017-06-14,Prescription,issue from previous review,73,74.08
+2632140011310612625,2017-08-05,2017-08-15,Medical aids,issue from previous review,65,12491.89
+1208347000667189976,2017-04-29,2018-05-11,Doctor consultation,issue from previous review,82,100.51
+1598516741198006182,2017-03-21,2018-02-06,Doctor consultation,referral documentation,64,139.7
+896568075470428413,2017-10-21,2017-10-22,Prescription,duplicate payment,75,73.51
+6309891448274450737,2017-09-24,2018-02-19,Doctor consultation,duplicate payment,75,313.15
+8404283310455126934,2017-08-22,2017-08-22,Prescription,issue from previous review,68,128.78
+3360962749452208158,1796-01-12,2017-06-01,Prescription,referral documentation,73,14.47
+5465805582385966115,2017-05-13,2017-05-17,Prescription,issue from previous review,63,80.24
+3477627464628486988,2017-01-14,2017-10-19,Doctor consultation,duplicate payment,59,704.13
+194031671375595143,2017-03-19,2017-10-31,Doctor consultation,referral documentation,75,59.49
+3330128042119593590,2017-04-19,2017-06-23,Prescription,issue from previous review,72,0.0
+4762020347981757415,2017-02-07,2017-10-10,Prescription,referral documentation,66,14.4
+7119159240533509079,2017-01-20,2018-02-21,Prescription,duplicate payment,72,25.95
+8334026714888813579,2017-01-24,2017-01-28,Doctor consultation,undisclosed diagnoses,68,213.26
+14225751240730602,2017-11-15,2017-12-22,Doctor consultation,undisclosed diagnoses,64,169.89
+4826332688497960385,2017-11-18,2017-12-28,Prescription,issue from previous review,77,2831.39
+2375181029880014253,2017-03-26,2017-04-26,Prescription,issue from previous review,61,260.37
+2396664474378580612,2017-06-24,2017-12-27,Medical aids,issue from previous review,51,42.99
+5924679000101975286,2017-03-22,2017-09-16,Prescription,duplicate payment,69,100.97
+5916965340274659154,2017-06-03,2017-07-31,Prescription,referral documentation,62,13.99
+7759027368643080816,2017-03-15,2017-11-09,Doctor consultation,referral documentation,75,114.88
+2465215300809577147,2017-09-15,2017-10-12,Prescription,issue from previous review,79,16.68
+5062165619253389404,2017-07-07,2017-10-21,Doctor consultation,issue from previous review,73,143.44
+931463594057969502,2017-02-11,2017-03-05,Prescription,issue from previous review,71,182.1
+3085621308971406634,2017-06-29,2017-08-15,Doctor consultation,undisclosed diagnoses,82,151.81
+3121865687789564043,2017-05-04,2018-01-24,Prescription,issue from previous review,64,82.37
+2122106737360473614,2017-03-22,2017-07-26,Doctor consultation,referral documentation,52,299.12
+8952836701092137098,2017-12-16,2017-12-16,Prescription,issue from previous review,52,40.6
+8373970451113497241,2017-06-23,2017-07-15,Doctor consultation,issue from previous review,80,48.43
+6079497688691412835,2017-01-31,2017-06-21,Doctor consultation,issue from previous review,73,117.15
+5528188469659588646,2017-02-08,2017-05-04,Doctor consultation,referral documentation,61,312.64
+3723497979858569706,2017-05-30,2018-01-24,Doctor consultation,issue from previous review,64,22.56
+2963378653081408621,2017-03-14,2017-04-27,Prescription,duplicate payment,70,38.09
+7456500350324785083,2017-11-11,2017-12-17,Doctor consultation,undisclosed diagnoses,68,446.71
+8023603246206372515,2017-08-10,2017-08-11,Prescription,duplicate payment,77,262.09
+6369438876451268548,2017-01-18,2017-03-17,Doctor consultation,duplicate payment,62,228.71
+951820327217299974,2017-09-12,2018-02-23,Doctor consultation,duplicate payment,58,172.53
+6127605578740302591,2017-06-26,2017-11-24,Doctor consultation,duplicate payment,62,241.29
+4766068422955215900,2017-09-09,2018-02-22,Prescription,duplicate payment,64,207.69
+291924640904680014,2017-02-02,2017-03-09,Prescription,issue from previous review,54,16.87
+7568672470448086624,2017-11-15,2018-02-07,Doctor consultation,referral documentation,57,70.67
+2129088912016731222,2017-06-29,2017-06-30,Medical aids,issue from previous review,74,20.26
+8469436071458920106,2017-04-30,2017-05-02,Prescription,issue from previous review,70,100.34
+7661939136853244055,2017-02-02,2017-03-09,Prescription,issue from previous review,54,660.07
+6149681385397408900,2017-09-30,2018-03-29,Doctor consultation,duplicate payment,76,94.23
+1193191282875074509,2017-11-23,2018-01-19,Medical aids,issue from previous review,71,142.8
+8184134509691441077,2017-06-15,2017-07-08,Doctor consultation,undisclosed diagnoses,75,386.87
+346958757015457051,2017-03-26,2017-03-31,Prescription,duplicate payment,78,16.36
+4084399347908902396,2017-05-13,2017-11-09,Prescription,issue from previous review,65,13.82
+4759471614662264200,2017-09-19,2017-09-21,Prescription,referral documentation,77,84.37
+3868571588225997188,2017-03-07,2017-04-14,Doctor consultation,duplicate payment,71,3480.58
+3807884535208554673,2017-11-02,2017-11-03,Prescription,referral documentation,56,24.87
+1547677253363315162,2017-07-12,2017-07-21,Medical aids,issue from previous review,76,150.42
+8962099175855340883,2017-02-19,2017-05-10,Prescription,referral documentation,53,7.7
+1738789310976697845,2017-03-03,2017-03-05,Prescription,issue from previous review,71,22.86
+3875418484703310057,2017-03-07,2017-03-24,Doctor consultation,issue from previous review,68,10.85
+7397039022137035749,2017-06-13,2017-12-21,Medical aids,duplicate payment,63,21.18
+4017852506675543049,2017-09-05,2017-09-09,Prescription,issue from previous review,81,526.39
+245591803791723892,2017-04-04,2017-05-02,Prescription,issue from previous review,68,73.2
+6127332015035752604,2017-03-11,2017-04-28,Doctor consultation,referral documentation,63,219.71
+4025556885033676225,2017-08-23,2017-12-29,Doctor consultation,undisclosed diagnoses,64,563.46
+7995509594476214684,2017-08-16,2017-09-23,Prescription,issue from previous review,75,33.23
+6977573774157346816,2017-02-01,2017-03-07,Prescription,issue from previous review,53,40.23
+3907791824527015091,2017-09-20,2017-10-10,Prescription,issue from previous review,74,16.02
+2995985446031219712,2017-07-19,2017-07-27,Prescription,issue from previous review,73,42.3
+5497737111160425741,2017-03-17,2017-06-09,Medical aids,issue from previous review,71,169.0
+7333450237612542024,2017-09-28,2017-12-06,Doctor consultation,referral documentation,62,648.97
+1467338924735223142,2017-11-10,2018-04-12,Doctor consultation,duplicate payment,72,16.76
+2897828585525843306,2017-04-20,2017-07-11,Doctor consultation,duplicate payment,62,149.84
+7650540098885828940,2017-02-15,2017-06-29,Doctor consultation,issue from previous review,61,35.21
+2307819572640097109,2017-11-01,2017-12-21,Prescription,referral documentation,85,47.0
+1805761099752383926,2017-03-24,2017-06-10,Prescription,issue from previous review,51,5.97
+1278529848578346929,2017-04-04,2017-05-04,Prescription,issue from previous review,65,318.61
+348901629173907457,2017-10-07,2018-02-23,Doctor consultation,duplicate payment,38,639.45
+3196807734847079183,2017-07-05,2017-07-28,Prescription,referral documentation,67,55.6
+6671522838312491220,2017-02-17,2017-03-01,Prescription,referral documentation,68,30.35
+1066297397657827506,2017-02-16,2017-09-14,Doctor consultation,duplicate payment,78,614.91
+8453414686108413932,2017-01-07,2017-09-16,Doctor consultation,duplicate payment,69,653.32
+6690155582861070906,2017-05-05,2017-10-17,Prescription,referral documentation,54,63.02
+816993152965725690,2017-09-06,2017-09-17,Doctor consultation,referral documentation,64,916.01
+1970057469172563096,2017-07-15,2017-10-10,Prescription,referral documentation,66,91.98
+6436686806285447958,2017-05-09,2017-05-11,Prescription,issue from previous review,79,3518.71
+2837892718555672738,2017-07-15,2017-10-27,Doctor consultation,duplicate payment,71,138.52
+2724817756098800278,2017-03-16,2017-03-21,Prescription,duplicate payment,55,6.97
+6396044735260968293,2017-06-03,2017-07-13,Prescription,issue from previous review,55,16.58
+6058330940525196504,2017-07-21,2017-07-21,Prescription,issue from previous review,59,24.52
+4826520759952932297,2017-04-09,2018-03-14,Prescription,duplicate payment,67,13.8
+6680978341504774474,2017-06-22,2017-07-11,Medical aids,issue from previous review,59,117.0
+2893649411478025018,2017-04-13,2017-05-18,Prescription,issue from previous review,77,22.55
+6676852769624943555,2017-05-10,2017-10-12,Prescription,issue from previous review,79,31.24
+8154414427823567265,2017-01-03,2017-01-06,Doctor consultation,issue from previous review,71,189.45
+4103043905334760708,2017-11-14,2017-11-15,Prescription,issue from previous review,42,13.17
+1532200644115300789,2017-10-28,2018-01-18,Medical aids,issue from previous review,76,427.7
+2592680631862981411,2017-06-13,2017-12-21,Prescription,referral documentation,63,44.18
+5345425925101343200,2017-02-11,2017-02-13,Prescription,referral documentation,74,96.81
+660038022379245678,2017-08-29,2017-09-06,Prescription,issue from previous review,60,200.93
+6906552841215701476,2017-02-17,2017-05-30,Doctor consultation,referral documentation,52,331.16
+6472831435707742617,2017-05-17,2017-05-30,Medical aids,issue from previous review,85,89.57
+5622780500810553719,2017-08-23,2017-10-30,Doctor consultation,issue from previous review,53,765.44
+7055265373821898486,2017-07-27,2017-12-12,Doctor consultation,issue from previous review,62,127.3
+1279710795868663584,2017-04-05,2017-07-14,Doctor consultation,issue from previous review,64,158.22
+5337599688027675222,2017-12-14,2017-12-14,Prescription,issue from previous review,63,15.85
+161536962725825496,2017-02-10,2017-04-14,Doctor consultation,issue from previous review,71,829.33
+3621000813784961582,2017-08-09,2017-12-08,Prescription,duplicate payment,59,24.57
+7926779997919542118,2017-02-24,2017-04-19,Prescription,issue from previous review,65,16.36
+4532135153516342835,2017-02-02,2017-03-07,Prescription,issue from previous review,65,358.56
+1044765464432903136,2017-05-16,2017-06-06,Prescription,referral documentation,65,34.1
+7814704414119695367,2017-07-09,2017-07-11,Prescription,issue from previous review,59,22.86
+1649250879000050204,2017-12-05,2018-02-10,Medical aids,issue from previous review,51,92.16
+4840963712493310296,2017-03-14,2017-04-27,Prescription,duplicate payment,70,38.09
+8178656053802776396,2017-07-06,2017-07-28,Prescription,referral documentation,67,26.23
+1205284145155503964,2017-04-05,2017-08-15,Doctor consultation,duplicate payment,76,27.28
+4672445335615970116,2017-07-06,2017-07-31,Prescription,issue from previous review,72,161.26
+8176260804390146283,2017-02-02,2017-03-07,Prescription,issue from previous review,65,126.04
+3385786842330078657,2017-04-01,2017-04-01,Prescription,issue from previous review,65,197.96
+3536796823908364037,2017-11-07,2018-01-02,Doctor consultation,duplicate payment,43,145.31
+5560920139762747403,2017-02-11,2017-02-17,Medical aids,issue from previous review,64,349.0
+6728361375688253174,2017-02-04,2017-08-16,Doctor consultation,issue from previous review,68,366.0
+7029807580242255839,2017-07-15,2017-09-07,Prescription,referral documentation,47,62.29
+2329184643622206862,2017-03-28,2017-05-11,Prescription,issue from previous review,79,20.13
+6147479749806077277,2017-09-30,2017-10-04,Prescription,issue from previous review,80,75.77
+4966879597616797269,2017-11-29,2017-12-22,Doctor consultation,referral documentation,60,106.3
+6937342365721028843,2017-07-26,2018-04-03,Doctor consultation,issue from previous review,63,286.45
+7225803499987684870,2017-07-29,2018-01-24,Prescription,issue from previous review,64,164.74
+2389372076819980957,2017-10-20,2017-10-28,Medical aids,issue from previous review,74,535.5
+504909812969801654,2017-11-04,2017-11-09,Medical aids,issue from previous review,63,160.8
+1330389457905182554,2017-02-08,2017-04-20,Prescription,issue from previous review,42,13.64
+7570135065021162324,2017-01-11,2017-07-05,Doctor consultation,issue from previous review,63,494.98
+605366642384055954,2017-02-24,2018-03-16,Doctor consultation,duplicate payment,74,175.58
+1861425387851398360,2017-07-26,2017-09-21,Doctor consultation,referral documentation,64,146.55
+2918161433789892574,2017-02-20,2017-05-11,Prescription,referral documentation,76,30.38
+3377769568208969419,2017-01-31,2017-04-26,Doctor consultation,undisclosed diagnoses,66,208.12
+3743684056287185139,2017-01-18,2018-02-02,Doctor consultation,duplicate payment,66,82.6
+6849131757065098272,2017-03-01,2017-03-30,Medical aids,issue from previous review,88,13.55
+8537781958666226909,2017-03-30,2017-04-05,Prescription,issue from previous review,69,20.0
+3293581458447411068,2017-12-06,2017-12-06,Prescription,issue from previous review,68,20.37
+8478279336754156941,2017-02-03,2018-02-24,Prescription,issue from previous review,69,85.5
+4904646166546964597,2017-11-07,2018-01-09,Doctor consultation,duplicate payment,47,288.65
+6975068404635562913,2017-12-27,2018-01-04,Prescription,issue from previous review,69,378.68
+7454789959352667436,2017-03-10,2017-09-14,Doctor consultation,undisclosed diagnoses,70,1262.72
+8667979040761836353,2017-05-21,2017-10-19,Prescription,issue from previous review,76,90.53
+1704245113518630654,2017-11-04,2017-12-02,Prescription,duplicate payment,71,31.95
+8002984298827910064,2017-03-02,2018-03-01,Doctor consultation,duplicate payment,71,581.31
+1514807830771152886,2017-08-11,2017-08-31,Medical aids,issue from previous review,61,84.0
+424619290100106950,2017-11-08,2017-11-28,Prescription,issue from previous review,72,48.18
+1907066190713747927,2017-05-06,2017-12-14,Doctor consultation,undisclosed diagnoses,76,670.46
+462136532035044435,2017-09-26,2017-10-05,Medical aids,issue from previous review,76,481.35
+2013162357037892560,2017-08-22,2017-11-09,Doctor consultation,duplicate payment,9,46.01
+2537579033812989630,2017-05-09,2017-06-15,Doctor consultation,referral documentation,78,69.51
+6327665164357852842,2017-11-28,2017-11-28,Prescription,issue from previous review,84,37.28
+4656063528673600353,2017-05-12,2017-08-24,Doctor consultation,issue from previous review,55,255.55
+4064036158120405065,2017-02-03,2017-06-07,Doctor consultation,referral documentation,70,5.1
+1024964488879958132,2017-01-18,2017-03-03,Medical aids,issue from previous review,88,2589.0
+3075351613875418195,2017-03-12,2018-02-24,Prescription,issue from previous review,69,14.45
+4660527835914401104,2017-06-14,2018-01-11,Doctor consultation,referral documentation,65,75.4
+5858953138904598084,2017-06-27,2017-07-05,Prescription,duplicate payment,80,125.44
+5907651269036787651,2017-08-18,2017-09-02,Doctor consultation,referral documentation,55,817.97
+3921062644808792952,2017-11-02,2018-01-27,Doctor consultation,referral documentation,80,13.87
+2368415892799327612,2017-12-07,2018-03-21,Doctor consultation,issue from previous review,53,267.55
+5353442631689084730,2017-12-13,2018-01-04,Prescription,issue from previous review,69,3193.29
+1860614460407523497,2017-12-05,2018-01-02,Prescription,issue from previous review,60,59.08
+1817307837341950777,2017-11-07,2017-11-18,Medical aids,issue from previous review,69,345.23
+4427804768166490674,2017-03-25,2017-04-10,Medical aids,issue from previous review,62,1249.0
+5944305382560960519,2017-02-07,2017-03-11,Prescription,duplicate payment,72,113.7
+3346257028565502264,2017-01-04,2017-02-08,Doctor consultation,issue from previous review,15,503.01
+8442138250609956933,2017-07-04,2017-11-04,Prescription,referral documentation,59,94.95
+4708317886972694392,2017-02-08,2017-03-02,Doctor consultation,issue from previous review,80,995.41
+272215668550156804,2017-12-09,2017-12-12,Prescription,referral documentation,76,47.91
+4539148657129428404,2017-08-05,2017-09-14,Prescription,issue from previous review,60,38.46
+9135196417425112575,2017-03-29,2017-04-06,Doctor consultation,issue from previous review,64,372.31
+2971583763089226948,2017-03-24,2017-03-28,Prescription,issue from previous review,60,17.52
+5579865818695971598,2017-09-23,2018-03-21,Prescription,issue from previous review,53,165.73
+2979966433808457748,2017-01-31,2017-03-17,Doctor consultation,issue from previous review,77,269.91
+3423383280321982936,2017-03-14,2017-03-22,Prescription,issue from previous review,70,332.35
+7654773436811724904,2017-09-07,2017-10-21,Doctor consultation,referral documentation,77,102.11
+6270740057625290340,2017-03-28,2017-04-07,Prescription,referral documentation,69,115.05
+8718425657844990448,2017-07-01,2017-09-19,Prescription,duplicate payment,69,103.84
+2965700096605237956,2017-03-25,2017-07-07,Doctor consultation,duplicate payment,78,1178.16
+5016088804158389520,2017-03-22,2017-09-05,Prescription,duplicate payment,63,9.96
+3318824234233624672,2017-09-07,2017-09-27,Prescription,duplicate payment,81,113.82
+7674313463227340849,2017-07-01,2017-09-19,Prescription,duplicate payment,69,68.85
+6623002022404030821,2017-11-07,2018-01-17,Prescription,referral documentation,11,15.39
+3634419817646569510,2017-07-08,2017-09-24,Prescription,duplicate payment,64,16.55
+7708581006281816515,2017-04-12,2018-04-30,Doctor consultation,duplicate payment,61,172.41
+3442695863167910909,2017-12-08,2018-01-27,Doctor consultation,issue from previous review,80,30.56
+1651784120520016631,2017-05-03,2017-05-06,Prescription,issue from previous review,71,38.81
+5547640744737366926,2017-10-18,2017-12-09,Doctor consultation,duplicate payment,55,33.52
+4230637337257689117,2017-11-19,2018-02-02,Medical aids,issue from previous review,63,321.0
+2733103313951019791,2017-08-08,2017-09-27,Prescription,duplicate payment,81,19.55
+5659256921637415874,2017-02-04,2017-03-08,Prescription,issue from previous review,60,178.46
+4670591622566138974,2017-01-24,2017-02-22,Prescription,issue from previous review,75,13.45
+1943786545793377725,2017-04-08,2017-04-25,Prescription,issue from previous review,62,36.86
+8597902619014939416,2017-08-18,2018-03-15,Doctor consultation,referral documentation,58,623.9
+3610801814656936547,2017-08-29,2017-09-26,Doctor consultation,issue from previous review,77,157.36
+4227797081919108777,2017-04-27,2017-04-29,Prescription,issue from previous review,53,42.0
+1884816481536033953,2017-09-07,2017-11-04,Doctor consultation,issue from previous review,83,153.81
+8265329784614494871,2017-03-16,2017-04-05,Prescription,issue from previous review,68,36.81
+6425655765743694268,2017-02-18,2017-05-08,Doctor consultation,duplicate payment,64,141.41
+4255637842143475892,2017-06-07,2017-06-10,Prescription,issue from previous review,66,31.5
+2076158431557427839,2017-12-01,2017-12-01,Prescription,issue from previous review,72,191.33
+5954565570503229306,2017-02-07,2017-06-14,Doctor consultation,referral documentation,66,127.32
+7945799666516572393,2017-10-26,2017-11-04,Medical aids,issue from previous review,75,261.8
+2476623080788753751,2017-06-10,2017-07-05,Doctor consultation,duplicate payment,57,545.75
+2176931860570768267,2017-02-17,2018-01-30,Doctor consultation,duplicate payment,69,269.27
+6521672564959079677,2017-08-30,2017-10-10,Doctor consultation,referral documentation,55,936.3
+7978730100628729879,2017-01-11,2017-03-17,Doctor consultation,issue from previous review,70,205.75
+3428614699087029818,2017-01-31,2017-04-05,Prescription,issue from previous review,67,13.01
+3692081326133141552,2017-09-19,2018-05-02,Doctor consultation,referral documentation,39,66.37
+5492546892193786951,2017-10-04,2017-10-21,Prescription,issue from previous review,59,25.98
+6526248280150833666,2017-12-23,2018-01-04,Prescription,issue from previous review,69,26.32
+2017617268264951769,2017-07-13,2017-07-25,Prescription,duplicate payment,81,12.84
+4622544519380692573,2017-09-26,2018-02-24,Doctor consultation,issue from previous review,69,69.96
+429343429323336823,2017-03-01,2017-05-12,Prescription,issue from previous review,70,191.35
+4823302730339036717,2017-04-25,2017-06-01,Prescription,duplicate payment,81,56.82
+4789676954521781954,2017-07-01,2017-09-19,Prescription,duplicate payment,69,22.85
+2650613036372961643,2017-04-05,2017-09-02,Prescription,issue from previous review,62,70.1
+1694198971579512618,2017-05-25,2017-10-13,Doctor consultation,referral documentation,72,266.7
+1169973184999357574,2017-08-08,2017-08-31,Medical aids,issue from previous review,64,33.64
+6305836911525628992,2017-08-25,2017-08-29,Prescription,duplicate payment,63,1263.26
+4786445798264303795,2017-12-01,2017-12-06,Prescription,issue from previous review,81,53.68
+3856432324407097854,2017-11-02,2017-12-12,Doctor consultation,issue from previous review,75,274.26
+1519474990667353415,2017-02-21,2017-05-27,Doctor consultation,duplicate payment,57,163.97
+3580686353580296255,2017-01-07,2017-02-07,Prescription,issue from previous review,77,16.07
+566653430517494978,2017-10-14,2017-11-21,Doctor consultation,issue from previous review,67,608.14
+3735999103757866597,2017-02-18,2017-02-22,Prescription,issue from previous review,75,13.76
+5922709465846558386,2017-11-02,2018-03-23,Doctor consultation,referral documentation,13,137.07
+6880911618663233099,2017-01-07,2017-03-10,Prescription,issue from previous review,58,1801.22
+4896945137643574151,2017-06-14,2017-08-29,Medical aids,issue from previous review,71,48.84
+188996579158023881,2017-12-01,2018-02-15,Doctor consultation,duplicate payment,79,344.42
+7706968038750334892,2017-02-04,2017-10-28,Doctor consultation,undisclosed diagnoses,64,233.58
+8447179147915433551,2017-03-30,2017-04-04,Prescription,duplicate payment,78,288.84
+3974775483502674501,2017-01-10,2017-02-17,Prescription,referral documentation,62,1740.07
+8442972678059327518,2017-05-06,2017-05-09,Prescription,issue from previous review,67,71.39
+5136582344179502990,2017-06-08,2018-04-16,Doctor consultation,duplicate payment,72,350.9
+8177283943644436256,2017-01-12,2017-09-30,Prescription,issue from previous review,74,4031.1
+4312606311860574087,2017-12-18,2017-12-28,Medical aids,issue from previous review,78,773.5
+8778163743812924472,2017-03-31,2017-08-19,Prescription,issue from previous review,75,14.05
+3705690834963652305,2017-08-11,2017-09-22,Prescription,issue from previous review,66,31.69
+4011227972384175905,2017-04-06,2017-05-19,Prescription,issue from previous review,82,190.47
+4514566991800104879,2017-06-02,2017-08-08,Prescription,duplicate payment,53,26.5
+8711190712779966094,2017-09-08,2017-11-06,Doctor consultation,referral documentation,43,154.73
+4159101454106273909,2017-02-21,2017-03-27,Doctor consultation,referral documentation,79,591.78
+1038953252654769899,2017-02-22,2017-09-16,Doctor consultation,issue from previous review,68,677.68
+1574133109407736000,2017-09-13,2017-10-11,Doctor consultation,duplicate payment,54,299.65
+3542000668843070089,2017-11-08,2017-11-11,Doctor consultation,issue from previous review,57,168.18
+2576181249460366603,2017-11-03,2018-02-24,Medical aids,duplicate payment,80,16.18
+6742111396852206397,2017-06-02,2017-06-29,Prescription,duplicate payment,56,9.94
+6793126611328557417,2017-04-22,2017-10-19,Prescription,referral documentation,62,80.18
+64016207599938530,2017-01-12,2017-05-19,Doctor consultation,referral documentation,70,619.96
+6869564675508442348,2017-02-15,2018-02-17,Prescription,duplicate payment,59,60.1
+5947403156011434164,2017-02-20,2017-10-19,Prescription,issue from previous review,76,31.72
+2090511192361555950,2017-06-08,2017-06-10,Prescription,issue from previous review,66,9.63
+7981618714339403014,2017-04-22,2017-04-22,Prescription,issue from previous review,63,35.76
+1468438937272123241,2017-05-23,2017-05-23,Prescription,issue from previous review,54,59.01
+6939197632419533523,2017-06-23,2017-06-27,Prescription,issue from previous review,56,4370.45
+8696286212363093622,2017-08-30,2017-08-30,Prescription,issue from previous review,67,476.96
+6022970582891376724,2017-02-10,2017-03-02,Medical aids,issue from previous review,65,363.78
+484452531465199710,2017-09-13,2017-10-24,Doctor consultation,issue from previous review,77,21.44
+8238747451224298457,2017-04-09,2017-06-10,Doctor consultation,referral documentation,76,383.45
+5704663788130324976,2017-05-11,2018-02-24,Prescription,issue from previous review,69,43.78
+3156111102175388340,2017-04-10,2018-03-01,Doctor consultation,referral documentation,71,93.97
+8339777338527798129,2017-04-06,2017-04-13,Prescription,referral documentation,77,462.97
+1350854209300786483,2017-08-29,2018-04-11,Doctor consultation,issue from previous review,15,538.09
+7676014900333708252,2017-03-14,2017-05-29,Prescription,duplicate payment,72,3.27
+5933553014898456962,2017-09-23,2017-10-03,Prescription,referral documentation,63,14.76
+3779354469986346128,2017-04-05,2018-02-17,Prescription,referral documentation,59,101.98
+8243435543417325738,2017-11-11,2017-12-05,Doctor consultation,issue from previous review,62,832.82
+4837267170849363280,2017-05-03,2017-05-06,Prescription,issue from previous review,71,172.34
+1965997525259341756,2017-07-21,2017-09-02,Prescription,duplicate payment,62,62.54
+2434859722265373413,2017-11-02,2017-12-06,Prescription,issue from previous review,81,50.56
+39762236573471287,2017-07-11,2018-02-24,Prescription,issue from previous review,69,9.45
+7759833179941937462,2017-09-26,2018-02-24,Prescription,issue from previous review,69,106.6
+7020698266306808630,2017-01-13,2017-01-31,Doctor consultation,undisclosed diagnoses,57,267.61
+5736373589831654827,2017-04-28,2017-05-04,Prescription,issue from previous review,80,45.4
+659590893655903318,2017-10-18,2018-05-17,Doctor consultation,issue from previous review,58,378.51
+2679738553594493103,2017-05-05,2017-07-07,Doctor consultation,referral documentation,55,449.56
+3763635151743660029,2017-10-19,2017-10-25,Medical aids,issue from previous review,82,576.9
+4230600557142387286,2017-09-01,2017-10-20,Prescription,referral documentation,71,46.58
+5841919750900770171,2017-12-11,2018-01-16,Doctor consultation,referral documentation,49,146.77
+364258205619195700,2017-05-27,2017-06-28,Doctor consultation,undisclosed diagnoses,66,238.64
+8542779209557606752,2017-10-25,2017-11-18,Doctor consultation,issue from previous review,61,259.07
+4837367731860788147,2017-07-12,2017-12-29,Prescription,referral documentation,63,92.62
+5539954072188037769,2017-09-06,2018-02-08,Prescription,issue from previous review,56,18.62
+7985621016545940954,2017-05-11,2017-07-07,Prescription,issue from previous review,76,51.98
+6602934220463358373,2017-02-15,2017-06-29,Doctor consultation,issue from previous review,80,948.28
+932036189120071381,2017-12-19,2018-01-11,Doctor consultation,referral documentation,57,1049.19
+8408823021870631102,2017-08-31,2017-09-26,Doctor consultation,referral documentation,62,392.86
+3062274871663330867,2017-06-20,2017-07-26,Doctor consultation,issue from previous review,77,269.5
+81460446937621499,2017-10-26,2017-11-19,Medical aids,issue from previous review,73,631.25
+4756572550499236081,2017-03-23,2017-03-29,Prescription,issue from previous review,69,1263.26
+3745447546998321335,2017-02-26,2017-04-19,Doctor consultation,issue from previous review,82,258.82
+314276428895968328,2017-05-30,2017-07-20,Medical aids,issue from previous review,69,2693.0
+8090991823867675925,2017-03-08,2017-04-04,Doctor consultation,issue from previous review,71,274.48
+2304133197309444667,2017-05-11,2017-07-20,Prescription,issue from previous review,77,99.88
+9011241256069604980,2017-01-08,2017-01-12,Prescription,referral documentation,56,12.97
+8033126801657045407,2017-09-16,2017-10-06,Prescription,issue from previous review,75,47.94
+8006318588803497335,2017-08-05,2018-04-14,Doctor consultation,duplicate payment,67,31.24
+830537199076340364,2017-12-23,2018-01-03,Prescription,issue from previous review,59,30.03
+3149836104694303851,2017-02-21,2017-02-23,Medical aids,issue from previous review,70,118.28
+7367087851809199052,2017-12-13,2017-12-29,Prescription,issue from previous review,68,169.36
+6272782137301473884,2017-01-27,2017-03-11,Doctor consultation,issue from previous review,61,524.63
+7815267871099601280,2017-04-26,2017-04-27,Prescription,duplicate payment,62,17.22
+3013563926194350966,2017-06-13,2017-06-20,Medical aids,issue from previous review,64,1691.89
+7879652027463970246,2017-09-26,2018-03-21,Prescription,issue from previous review,43,105.5
+7986834184094373449,2017-08-03,2018-04-20,Doctor consultation,issue from previous review,68,413.23
+6198465949935340599,2017-02-25,2017-04-19,Prescription,issue from previous review,82,71.84
+2427041802826516069,2017-10-14,2017-11-17,Prescription,referral documentation,61,17.2
+4597483555668255697,2017-06-29,2017-07-27,Doctor consultation,duplicate payment,69,291.42
+8360904549048337948,2017-08-12,2017-09-28,Prescription,duplicate payment,63,44.28
+9009644388534574769,2017-02-03,2017-03-25,Prescription,referral documentation,74,33.69
+6391054898247058870,2017-07-27,2017-08-16,Prescription,duplicate payment,67,253.97
+1396232650257840099,2017-12-08,2018-01-13,Prescription,referral documentation,62,16.95
+631139496043263505,2017-10-18,2017-10-20,Medical aids,duplicate payment,74,20.26
+917053307260207196,2017-12-29,2018-04-20,Prescription,issue from previous review,68,74.04
+7601722419050334854,2017-08-03,2017-11-22,Doctor consultation,referral documentation,60,198.53
+353413733478764099,2017-03-22,2017-06-28,Doctor consultation,referral documentation,63,49.61
+7514639827423991975,2017-03-18,2017-05-09,Doctor consultation,issue from previous review,79,206.15
+3765731346926549415,2017-06-14,2017-08-16,Prescription,referral documentation,62,22.85
+2417495288671947747,2017-06-29,2017-10-20,Doctor consultation,duplicate payment,62,827.42
+5981375750909209100,2017-05-19,2017-05-25,Doctor consultation,issue from previous review,70,614.24
+7649685628839710525,2017-10-06,2017-11-07,Doctor consultation,issue from previous review,71,112.12
+4716616825933025649,2017-11-04,2018-02-09,Medical aids,issue from previous review,53,752.08
+4201238893175531474,2017-07-27,2017-08-23,Prescription,referral documentation,66,3989.28
+4973889221060024467,2017-08-11,2017-08-29,Prescription,issue from previous review,64,2249.74
+6291010443511147844,2017-04-13,2017-04-21,Prescription,issue from previous review,82,54.64
+4539199101077545002,2017-05-25,2017-05-30,Prescription,issue from previous review,64,39.59
+3716299994507628476,2017-03-04,2017-06-01,Medical aids,issue from previous review,69,235.69
+8999266430661395184,2017-07-08,2017-07-27,Prescription,issue from previous review,61,26.58
+3542600738901907103,2017-05-19,2017-07-11,Doctor consultation,referral documentation,59,335.85
+650279828760523501,2017-09-28,2017-10-05,Prescription,issue from previous review,71,250.47
+4921634139540938006,2017-02-04,2017-04-27,Doctor consultation,referral documentation,82,583.21
+1567443077534587657,2017-10-21,2017-11-23,Doctor consultation,issue from previous review,77,452.2
+5905215504940323270,2017-10-25,2017-11-23,Prescription,issue from previous review,77,17.34
+3222225685347607535,2017-08-04,2017-12-09,Doctor consultation,duplicate payment,59,339.13
+7993503218375580368,2017-06-18,2017-08-02,Prescription,referral documentation,77,0.01
+6195448112152631782,2017-06-13,2017-06-17,Prescription,issue from previous review,61,438.9
+241201489132744296,2017-08-22,2018-01-01,Doctor consultation,duplicate payment,70,260.54
+7141159471023913713,2017-09-21,2017-10-20,Medical aids,issue from previous review,71,58.65
+6573780982748441909,2017-11-09,2018-01-11,Doctor consultation,referral documentation,77,41.55
+3171218479945053074,2017-01-17,2018-01-18,Doctor consultation,issue from previous review,62,38.18
+2906088720268616134,2017-08-17,2017-08-26,Medical aids,issue from previous review,76,437.44
+4553815502408329216,2017-12-23,2018-01-03,Prescription,issue from previous review,59,25.5
+2137795780314263427,2017-11-10,2018-03-03,Doctor consultation,referral documentation,69,258.21
+7110965740783215296,2017-10-13,2017-10-26,Prescription,referral documentation,49,68.3
+5532953935199295693,2017-03-10,2017-07-11,Prescription,referral documentation,59,13.45
+3201465592105010120,2017-12-20,2017-12-22,Prescription,referral documentation,85,82.96
+6451739961285143800,2017-11-28,2018-03-31,Doctor consultation,duplicate payment,62,340.35
+7059909579348398128,2017-11-25,2017-12-05,Prescription,issue from previous review,63,44.76
+1287255024121952652,2017-07-06,2017-07-14,Prescription,issue from previous review,70,580.08
+2657018676798228263,2017-10-24,2017-10-27,Medical aids,issue from previous review,61,1556.35
+2753462497391643138,2017-03-04,2017-05-09,Doctor consultation,issue from previous review,79,592.2
+1624497976737168861,2017-09-15,2017-10-07,Prescription,issue from previous review,71,30.28
+5329544669103473941,2017-01-21,2017-01-24,Prescription,duplicate payment,63,43.7
+7289136152180522355,2017-11-07,2017-12-04,Doctor consultation,referral documentation,63,195.79
+2595491721114336848,2017-01-27,2017-02-01,Prescription,referral documentation,80,228.14
